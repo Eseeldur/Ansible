@@ -1,0 +1,6 @@
+[staging_servers]
+linux1 ansible_host=192.168.224.176
+
+[staging_servers:vars]
+ansible_user=root
+ansible_password=Double64
